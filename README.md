@@ -1,6 +1,6 @@
 <p align="center"><img height="120" align="center" src="https://voltbot.xyz/assets/img/logo.png" alt="logo"/></p>
 <h1 align="center">VoltBot</h1>
-<h1 align="center">The main page of VoltBot</h1>
+<h1 align="center">The main page of the website</h1>
 <br>
 <p align="center">
     <img alt="tag" src="https://botlist.space/bot/699534920271265812/badge?property=tag&color=red" target="_blank" />
